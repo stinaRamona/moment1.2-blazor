@@ -4,3 +4,31 @@
 
 <h1>Här kan main konvertera saker</h1>
 
+<h3>Meter/Fot:</h3>
+<input type="text" @bind="Meters">
+<br><br>
+<button @onclick="ConvertMeter">Konvertera</button>
+<span><!-- Här ska svaret stå --></span>
+
+<h3>Kmh/Mph:</h3>
+<input type="text" @bind="Kmh">
+<br><br>
+<button @onclick="ConvertKmh">Konvertera</button>
+<span><!-- Här ska svaret stå --></span>
+
+@code {
+    //variabler för värdena 
+    private double Meters { get; set; } = 0;
+
+    private double Kmh { get; set; } = 0; 
+
+    //funkiton för meter till fot 
+    private void ConvertMeter() {
+
+    }
+
+    //funktion för kmh till mph
+    private void ConvertKmh() {
+        
+    }
+}
