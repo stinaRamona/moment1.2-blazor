@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Vo0Do3IDyXhgdpMOO2gqsnG7h6f5FW7XzCWrA6o4YUw=",
+  "Hash": "YmTZKo28Ig/fnH/3CnEm3xaLV2kb59albVby6zVbys4=",
   "Source": "moment1.2_dotnet",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "l7dlog4uj2",
-      "Integrity": "37F8ILOtxYWY0twOH3wG+Pj/eaQdTqdWQ66mOYvLiqM=",
+      "Fingerprint": "9432ovqa4p",
+      "Integrity": "t2/PZeThhCDGJvnlnaB2t6vEeYyMF18HKtCknpi0/Z0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -829,8 +829,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "shaaw6e09y",
-      "Integrity": "YNSg/pvo50btFo8FrqVOHoJPkR7SFfR9BnG/D7K0SIQ=",
+      "Fingerprint": "vizkzxuu36",
+      "Integrity": "KYiWe4nv6LDazips7eKd6urOuDSsx5ZkDbq4qLza10c=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\moment1.2_dotnet.pdb"
@@ -850,8 +850,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "vasko3k8iv",
-      "Integrity": "RxCTj3Bv1hxot+oXZsNM/PAJZv2e8lPCM0Tp3SvuZrc=",
+      "Fingerprint": "2a1hs804ql",
+      "Integrity": "utyFD76yBQJmof5gDSBEztd2zh3AgTz3fcQxwjCYxGQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\webcil\\moment1.2_dotnet.wasm"
@@ -4889,12 +4889,12 @@
       "OriginalItemSpec": "C:\\temp\\moment1.2_dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\3d7l7l01ws-shaaw6e09y.gz",
+      "Identity": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\3d7l7l01ws-vizkzxuu36.gz",
       "SourceId": "moment1.2_dotnet",
       "SourceType": "Computed",
       "ContentRoot": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/moment1.2_dotnet#[.{fingerprint=shaaw6e09y}]!.pdb.gz",
+      "RelativePath": "_framework/moment1.2_dotnet#[.{fingerprint=vizkzxuu36}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4903,8 +4903,8 @@
       "RelatedAsset": "C:\\temp\\moment1.2_dotnet\\bin\\Debug\\net9.0\\wwwroot\\_framework\\moment1.2_dotnet.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "oaqj8nabum",
-      "Integrity": "INBG1E2fcjvMKkdMcIcGxGaDk9D/fc4uJd1es5WYAn4=",
+      "Fingerprint": "762f8fck7d",
+      "Integrity": "QeMLZP1qbiCGV9fO5y4oGEfUH00Ns0Be67V4QxdVbmc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\temp\\moment1.2_dotnet\\bin\\Debug\\net9.0\\wwwroot\\_framework\\moment1.2_dotnet.pdb"
@@ -7766,12 +7766,12 @@
       "OriginalItemSpec": "C:\\temp\\moment1.2_dotnet\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WindowsBase.wasm"
     },
     {
-      "Identity": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\ls5z9877je-vasko3k8iv.gz",
+      "Identity": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\ls5z9877je-2a1hs804ql.gz",
       "SourceId": "moment1.2_dotnet",
       "SourceType": "Computed",
       "ContentRoot": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/moment1.2_dotnet#[.{fingerprint=vasko3k8iv}]!.wasm.gz",
+      "RelativePath": "_framework/moment1.2_dotnet#[.{fingerprint=2a1hs804ql}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7780,8 +7780,8 @@
       "RelatedAsset": "C:\\temp\\moment1.2_dotnet\\bin\\Debug\\net9.0\\wwwroot\\_framework\\moment1.2_dotnet.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "un6f58eejs",
-      "Integrity": "hotSdb90BNjrK+2IaGM20wC9uvTnAPKEnrx4PzySyFc=",
+      "Fingerprint": "l7xgs11bnt",
+      "Integrity": "IRxbI1kkbCYW6mmVI5NoWAF8qRSaVBsO0u24K7lp1q4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\temp\\moment1.2_dotnet\\bin\\Debug\\net9.0\\wwwroot\\_framework\\moment1.2_dotnet.wasm"
@@ -7850,7 +7850,7 @@
       "OriginalItemSpec": "C:\\temp\\moment1.2_dotnet\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.wasm"
     },
     {
-      "Identity": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\m9yqj16bon-l7dlog4uj2.gz",
+      "Identity": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\m9yqj16bon-9432ovqa4p.gz",
       "SourceId": "moment1.2_dotnet",
       "SourceType": "Computed",
       "ContentRoot": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\",
@@ -7864,8 +7864,8 @@
       "RelatedAsset": "C:\\temp\\moment1.2_dotnet\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "z4qhoob331",
-      "Integrity": "k4Z6oFNrdepiqIQ/CZpVeIeAXmogfTceiLx1sg1e3bs=",
+      "Fingerprint": "cl9hgf8wlj",
+      "Integrity": "MIlYIpc0/l6+IYSSundxbvTTMKeaM7CTbFTocuvN2EA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\temp\\moment1.2_dotnet\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -10705,11 +10705,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"37F8ILOtxYWY0twOH3wG+Pj/eaQdTqdWQ66mOYvLiqM=\""
+          "Value": "\"t2/PZeThhCDGJvnlnaB2t6vEeYyMF18HKtCknpi0/Z0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 13:05:50 GMT"
+          "Value": "Tue, 28 Jan 2025 14:19:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,18 +10719,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-37F8ILOtxYWY0twOH3wG+Pj/eaQdTqdWQ66mOYvLiqM="
+          "Value": "sha256-t2/PZeThhCDGJvnlnaB2t6vEeYyMF18HKtCknpi0/Z0="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\m9yqj16bon-l7dlog4uj2.gz",
+      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\m9yqj16bon-9432ovqa4p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081307423"
+          "Quality": "0.000081340491"
         }
       ],
       "ResponseHeaders": [
@@ -10740,15 +10740,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12298"
+          "Value": "12293"
         },
         {
           "Name": "ETag",
-          "Value": "\"k4Z6oFNrdepiqIQ/CZpVeIeAXmogfTceiLx1sg1e3bs=\""
+          "Value": "\"MIlYIpc0/l6+IYSSundxbvTTMKeaM7CTbFTocuvN2EA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 12:59:37 GMT"
+          "Value": "Tue, 28 Jan 2025 14:18:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"37F8ILOtxYWY0twOH3wG+Pj/eaQdTqdWQ66mOYvLiqM=\""
+          "Value": "W/\"t2/PZeThhCDGJvnlnaB2t6vEeYyMF18HKtCknpi0/Z0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-37F8ILOtxYWY0twOH3wG+Pj/eaQdTqdWQ66mOYvLiqM="
+          "Value": "sha256-t2/PZeThhCDGJvnlnaB2t6vEeYyMF18HKtCknpi0/Z0="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\m9yqj16bon-l7dlog4uj2.gz",
+      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\m9yqj16bon-9432ovqa4p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12298"
+          "Value": "12293"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"k4Z6oFNrdepiqIQ/CZpVeIeAXmogfTceiLx1sg1e3bs=\""
+          "Value": "\"MIlYIpc0/l6+IYSSundxbvTTMKeaM7CTbFTocuvN2EA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 12:59:37 GMT"
+          "Value": "Tue, 28 Jan 2025 14:18:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-k4Z6oFNrdepiqIQ/CZpVeIeAXmogfTceiLx1sg1e3bs="
+          "Value": "sha256-MIlYIpc0/l6+IYSSundxbvTTMKeaM7CTbFTocuvN2EA="
         }
       ]
     },
@@ -21689,305 +21689,7 @@
       ]
     },
     {
-      "Route": "_framework/moment1.2_dotnet.pdb",
-      "AssetFile": "C:\\temp\\moment1.2_dotnet\\bin\\Debug\\net9.0\\wwwroot\\_framework\\moment1.2_dotnet.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26628"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YNSg/pvo50btFo8FrqVOHoJPkR7SFfR9BnG/D7K0SIQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 13:05:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YNSg/pvo50btFo8FrqVOHoJPkR7SFfR9BnG/D7K0SIQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/moment1.2_dotnet.pdb",
-      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\3d7l7l01ws-shaaw6e09y.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000050436274"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19826"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"INBG1E2fcjvMKkdMcIcGxGaDk9D/fc4uJd1es5WYAn4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 13:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"YNSg/pvo50btFo8FrqVOHoJPkR7SFfR9BnG/D7K0SIQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YNSg/pvo50btFo8FrqVOHoJPkR7SFfR9BnG/D7K0SIQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/moment1.2_dotnet.pdb.gz",
-      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\3d7l7l01ws-shaaw6e09y.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19826"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"INBG1E2fcjvMKkdMcIcGxGaDk9D/fc4uJd1es5WYAn4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 13:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-INBG1E2fcjvMKkdMcIcGxGaDk9D/fc4uJd1es5WYAn4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/moment1.2_dotnet.shaaw6e09y.pdb",
-      "AssetFile": "C:\\temp\\moment1.2_dotnet\\bin\\Debug\\net9.0\\wwwroot\\_framework\\moment1.2_dotnet.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26628"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YNSg/pvo50btFo8FrqVOHoJPkR7SFfR9BnG/D7K0SIQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 13:05:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "shaaw6e09y"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/moment1.2_dotnet.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YNSg/pvo50btFo8FrqVOHoJPkR7SFfR9BnG/D7K0SIQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/moment1.2_dotnet.shaaw6e09y.pdb",
-      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\3d7l7l01ws-shaaw6e09y.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000050436274"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19826"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"INBG1E2fcjvMKkdMcIcGxGaDk9D/fc4uJd1es5WYAn4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 13:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"YNSg/pvo50btFo8FrqVOHoJPkR7SFfR9BnG/D7K0SIQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "shaaw6e09y"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/moment1.2_dotnet.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YNSg/pvo50btFo8FrqVOHoJPkR7SFfR9BnG/D7K0SIQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/moment1.2_dotnet.shaaw6e09y.pdb.gz",
-      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\3d7l7l01ws-shaaw6e09y.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19826"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"INBG1E2fcjvMKkdMcIcGxGaDk9D/fc4uJd1es5WYAn4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 13:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "shaaw6e09y"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/moment1.2_dotnet.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-INBG1E2fcjvMKkdMcIcGxGaDk9D/fc4uJd1es5WYAn4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/moment1.2_dotnet.vasko3k8iv.wasm",
+      "Route": "_framework/moment1.2_dotnet.2a1hs804ql.wasm",
       "AssetFile": "C:\\temp\\moment1.2_dotnet\\bin\\Debug\\net9.0\\wwwroot\\_framework\\moment1.2_dotnet.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21997,7 +21699,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21781"
+          "Value": "23829"
         },
         {
           "Name": "Content-Type",
@@ -22005,11 +21707,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RxCTj3Bv1hxot+oXZsNM/PAJZv2e8lPCM0Tp3SvuZrc=\""
+          "Value": "\"utyFD76yBQJmof5gDSBEztd2zh3AgTz3fcQxwjCYxGQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 13:05:49 GMT"
+          "Value": "Tue, 28 Jan 2025 14:19:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22019,7 +21721,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vasko3k8iv"
+          "Value": "2a1hs804ql"
         },
         {
           "Name": "label",
@@ -22027,18 +21729,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RxCTj3Bv1hxot+oXZsNM/PAJZv2e8lPCM0Tp3SvuZrc="
+          "Value": "sha256-utyFD76yBQJmof5gDSBEztd2zh3AgTz3fcQxwjCYxGQ="
         }
       ]
     },
     {
-      "Route": "_framework/moment1.2_dotnet.vasko3k8iv.wasm",
-      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\ls5z9877je-vasko3k8iv.gz",
+      "Route": "_framework/moment1.2_dotnet.2a1hs804ql.wasm",
+      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\ls5z9877je-2a1hs804ql.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000110570544"
+          "Quality": "0.000099810360"
         }
       ],
       "ResponseHeaders": [
@@ -22048,15 +21750,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9043"
+          "Value": "10018"
         },
         {
           "Name": "ETag",
-          "Value": "\"hotSdb90BNjrK+2IaGM20wC9uvTnAPKEnrx4PzySyFc=\""
+          "Value": "\"IRxbI1kkbCYW6mmVI5NoWAF8qRSaVBsO0u24K7lp1q4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 13:05:50 GMT"
+          "Value": "Tue, 28 Jan 2025 14:19:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22076,13 +21778,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RxCTj3Bv1hxot+oXZsNM/PAJZv2e8lPCM0Tp3SvuZrc=\""
+          "Value": "W/\"utyFD76yBQJmof5gDSBEztd2zh3AgTz3fcQxwjCYxGQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vasko3k8iv"
+          "Value": "2a1hs804ql"
         },
         {
           "Name": "label",
@@ -22090,13 +21792,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RxCTj3Bv1hxot+oXZsNM/PAJZv2e8lPCM0Tp3SvuZrc="
+          "Value": "sha256-utyFD76yBQJmof5gDSBEztd2zh3AgTz3fcQxwjCYxGQ="
         }
       ]
     },
     {
-      "Route": "_framework/moment1.2_dotnet.vasko3k8iv.wasm.gz",
-      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\ls5z9877je-vasko3k8iv.gz",
+      "Route": "_framework/moment1.2_dotnet.2a1hs804ql.wasm.gz",
+      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\ls5z9877je-2a1hs804ql.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22105,7 +21807,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9043"
+          "Value": "10018"
         },
         {
           "Name": "Content-Type",
@@ -22113,11 +21815,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hotSdb90BNjrK+2IaGM20wC9uvTnAPKEnrx4PzySyFc=\""
+          "Value": "\"IRxbI1kkbCYW6mmVI5NoWAF8qRSaVBsO0u24K7lp1q4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 13:05:50 GMT"
+          "Value": "Tue, 28 Jan 2025 14:19:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22135,7 +21837,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vasko3k8iv"
+          "Value": "2a1hs804ql"
         },
         {
           "Name": "label",
@@ -22143,7 +21845,305 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hotSdb90BNjrK+2IaGM20wC9uvTnAPKEnrx4PzySyFc="
+          "Value": "sha256-IRxbI1kkbCYW6mmVI5NoWAF8qRSaVBsO0u24K7lp1q4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/moment1.2_dotnet.pdb",
+      "AssetFile": "C:\\temp\\moment1.2_dotnet\\bin\\Debug\\net9.0\\wwwroot\\_framework\\moment1.2_dotnet.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27768"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KYiWe4nv6LDazips7eKd6urOuDSsx5ZkDbq4qLza10c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 14:19:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KYiWe4nv6LDazips7eKd6urOuDSsx5ZkDbq4qLza10c="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/moment1.2_dotnet.pdb",
+      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\3d7l7l01ws-vizkzxuu36.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000048348886"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20682"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QeMLZP1qbiCGV9fO5y4oGEfUH00Ns0Be67V4QxdVbmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 14:19:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KYiWe4nv6LDazips7eKd6urOuDSsx5ZkDbq4qLza10c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KYiWe4nv6LDazips7eKd6urOuDSsx5ZkDbq4qLza10c="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/moment1.2_dotnet.pdb.gz",
+      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\3d7l7l01ws-vizkzxuu36.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QeMLZP1qbiCGV9fO5y4oGEfUH00Ns0Be67V4QxdVbmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 14:19:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QeMLZP1qbiCGV9fO5y4oGEfUH00Ns0Be67V4QxdVbmc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/moment1.2_dotnet.vizkzxuu36.pdb",
+      "AssetFile": "C:\\temp\\moment1.2_dotnet\\bin\\Debug\\net9.0\\wwwroot\\_framework\\moment1.2_dotnet.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27768"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KYiWe4nv6LDazips7eKd6urOuDSsx5ZkDbq4qLza10c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 14:19:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vizkzxuu36"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/moment1.2_dotnet.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KYiWe4nv6LDazips7eKd6urOuDSsx5ZkDbq4qLza10c="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/moment1.2_dotnet.vizkzxuu36.pdb",
+      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\3d7l7l01ws-vizkzxuu36.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000048348886"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20682"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QeMLZP1qbiCGV9fO5y4oGEfUH00Ns0Be67V4QxdVbmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 14:19:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KYiWe4nv6LDazips7eKd6urOuDSsx5ZkDbq4qLza10c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vizkzxuu36"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/moment1.2_dotnet.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KYiWe4nv6LDazips7eKd6urOuDSsx5ZkDbq4qLza10c="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/moment1.2_dotnet.vizkzxuu36.pdb.gz",
+      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\3d7l7l01ws-vizkzxuu36.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QeMLZP1qbiCGV9fO5y4oGEfUH00Ns0Be67V4QxdVbmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 14:19:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vizkzxuu36"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/moment1.2_dotnet.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QeMLZP1qbiCGV9fO5y4oGEfUH00Ns0Be67V4QxdVbmc="
         }
       ]
     },
@@ -22158,7 +22158,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21781"
+          "Value": "23829"
         },
         {
           "Name": "Content-Type",
@@ -22166,11 +22166,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RxCTj3Bv1hxot+oXZsNM/PAJZv2e8lPCM0Tp3SvuZrc=\""
+          "Value": "\"utyFD76yBQJmof5gDSBEztd2zh3AgTz3fcQxwjCYxGQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 13:05:49 GMT"
+          "Value": "Tue, 28 Jan 2025 14:19:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22180,18 +22180,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RxCTj3Bv1hxot+oXZsNM/PAJZv2e8lPCM0Tp3SvuZrc="
+          "Value": "sha256-utyFD76yBQJmof5gDSBEztd2zh3AgTz3fcQxwjCYxGQ="
         }
       ]
     },
     {
       "Route": "_framework/moment1.2_dotnet.wasm",
-      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\ls5z9877je-vasko3k8iv.gz",
+      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\ls5z9877je-2a1hs804ql.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000110570544"
+          "Quality": "0.000099810360"
         }
       ],
       "ResponseHeaders": [
@@ -22201,15 +22201,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9043"
+          "Value": "10018"
         },
         {
           "Name": "ETag",
-          "Value": "\"hotSdb90BNjrK+2IaGM20wC9uvTnAPKEnrx4PzySyFc=\""
+          "Value": "\"IRxbI1kkbCYW6mmVI5NoWAF8qRSaVBsO0u24K7lp1q4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 13:05:50 GMT"
+          "Value": "Tue, 28 Jan 2025 14:19:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22229,19 +22229,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RxCTj3Bv1hxot+oXZsNM/PAJZv2e8lPCM0Tp3SvuZrc=\""
+          "Value": "W/\"utyFD76yBQJmof5gDSBEztd2zh3AgTz3fcQxwjCYxGQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RxCTj3Bv1hxot+oXZsNM/PAJZv2e8lPCM0Tp3SvuZrc="
+          "Value": "sha256-utyFD76yBQJmof5gDSBEztd2zh3AgTz3fcQxwjCYxGQ="
         }
       ]
     },
     {
       "Route": "_framework/moment1.2_dotnet.wasm.gz",
-      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\ls5z9877je-vasko3k8iv.gz",
+      "AssetFile": "C:\\temp\\moment1.2_dotnet\\obj\\Debug\\net9.0\\compressed\\ls5z9877je-2a1hs804ql.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22250,7 +22250,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9043"
+          "Value": "10018"
         },
         {
           "Name": "Content-Type",
@@ -22258,11 +22258,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hotSdb90BNjrK+2IaGM20wC9uvTnAPKEnrx4PzySyFc=\""
+          "Value": "\"IRxbI1kkbCYW6mmVI5NoWAF8qRSaVBsO0u24K7lp1q4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 13:05:50 GMT"
+          "Value": "Tue, 28 Jan 2025 14:19:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22280,7 +22280,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hotSdb90BNjrK+2IaGM20wC9uvTnAPKEnrx4PzySyFc="
+          "Value": "sha256-IRxbI1kkbCYW6mmVI5NoWAF8qRSaVBsO0u24K7lp1q4="
         }
       ]
     },

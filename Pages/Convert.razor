@@ -4,31 +4,39 @@
 
 <h1>Här kan main konvertera saker</h1>
 
-<h3>Meter/Fot:</h3>
+<h3>Meter till Fot</h3>
+<b>Ange meter:</b><br>
 <input type="text" @bind="Meters">
 <br><br>
-<button @onclick="ConvertMeter">Konvertera</button>
-<span><!-- Här ska svaret stå --></span>
+<button @onclick="ConvertMeter">Konvertera</button><br>
+<span>Fot: @RoundFeet</span>
 
-<h3>Kmh/Mph:</h3>
+<h3>Kmh till Mph</h3>
+<b>Ange kmh:</b><br>
 <input type="text" @bind="Kmh">
 <br><br>
-<button @onclick="ConvertKmh">Konvertera</button>
-<span><!-- Här ska svaret stå --></span>
+<button @onclick="ConvertKmh">Konvertera</button><br>
+<span>Mph: @RoundMph</span>
 
 @code {
-    //variabler för värdena 
+    //variabler för längd 
     private double Meters { get; set; } = 0;
-
+    private double Feet { get; set; } = 0;
+    private double RoundFeet { get; set; } = 0;
+    //variabler för hastighet
     private double Kmh { get; set; } = 0; 
+    private double Mph { get; set; } = 0; 
+    private int RoundMph { get; set; } = 0;
 
     //funkiton för meter till fot 
     private void ConvertMeter() {
-
+        Feet = Meters * 3.28084;
+        RoundFeet = Math.Round(Feet, 1); //avrundar till två decimaler
     }
 
     //funktion för kmh till mph
     private void ConvertKmh() {
-        
+        Mph = Kmh * 0.621371; 
+        RoundMph = (int)Math.Round(Mph);
     }
 }
