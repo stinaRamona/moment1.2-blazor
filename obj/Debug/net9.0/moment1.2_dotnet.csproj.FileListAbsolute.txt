@@ -1075,10 +1075,10 @@ C:\temp\moment1.2_dotnet\obj\Debug\net9.0\refint\moment1.2_dotnet.dll
 C:\temp\moment1.2_dotnet\obj\Debug\net9.0\moment1.2_dotnet.pdb
 C:\temp\moment1.2_dotnet\obj\Debug\net9.0\ref\moment1.2_dotnet.dll
 C:\temp\moment1.2_dotnet\obj\Debug\net9.0\moment1.2_dotnet.sourcelink.json
-C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.vizkzxuu36.pdb
-C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.2a1hs804ql.wasm
-C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.vizkzxuu36.pdb.gz
-C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.2a1hs804ql.wasm.gz
-C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\ls5z9877je-2a1hs804ql.gz
-C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\3d7l7l01ws-vizkzxuu36.gz
-C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\m9yqj16bon-9432ovqa4p.gz
+C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.lech4r92rr.pdb
+C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.icfktf152a.wasm
+C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.lech4r92rr.pdb.gz
+C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.icfktf152a.wasm.gz
+C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\ls5z9877je-icfktf152a.gz
+C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\3d7l7l01ws-lech4r92rr.gz
+C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\m9yqj16bon-tnjhb167u9.gz

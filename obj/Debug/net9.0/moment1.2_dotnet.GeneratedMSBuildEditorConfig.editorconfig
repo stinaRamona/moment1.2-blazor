@@ -28,6 +28,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/temp/moment1.2_dotnet/components/AboutComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Y29tcG9uZW50c1xBYm91dENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/temp/moment1.2_dotnet/Pages/Convert.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
