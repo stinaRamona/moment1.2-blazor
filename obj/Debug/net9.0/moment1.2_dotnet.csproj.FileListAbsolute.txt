@@ -36,8 +36,6 @@ C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\Microsoft.VisualBas
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\Microsoft.VisualBasic.ezua2clavb.wasm
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Primitives.2w82csd6tr.wasm
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.krtg4e9rjb.wasm
-C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.yz2whp74kh.pdb
-C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.orgadbm2po.wasm
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\mscorlib.l6md3pggqy.wasm
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\netstandard.lij9csiyuf.wasm
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\System.AppContext.ch56s52ual.wasm
@@ -224,7 +222,6 @@ C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.8o8n7iomrf.js.gz
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Intrinsics.o9fm7inv0s.wasm.gz
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.Cng.tg2su1vayp.wasm.gz
-C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.yz2whp74kh.pdb.gz
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\System.Xml.lt9uhmpnr1.wasm.gz
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\System.Data.8fnvbemkr6.wasm.gz
@@ -336,7 +333,6 @@ C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\System.Windows.tati
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.oft8zow1u0.wasm.gz
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.xl34mv7373.wasm.gz
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\WindowsBase.ovqw333kan.wasm.gz
-C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.orgadbm2po.wasm.gz
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\System.Reflection.wo2kjrze7x.wasm.gz
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\System.IO.Compression.l063hh1m4m.wasm.gz
 C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\System.Net.WebSockets.Client.5n8jkuhz18.wasm.gz
@@ -1064,9 +1060,6 @@ C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\gud860v94v-tyz1a4w3vb.gz
 C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\3gdc5t9418-tjcz0u77k5.gz
 C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\t7lw7n89mt-tptq2av103.gz
 C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\j8ya20lupo-lfu7j35m59.gz
-C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\ls5z9877je-orgadbm2po.gz
-C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\3d7l7l01ws-yz2whp74kh.gz
-C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\m9yqj16bon-medulx2dno.gz
 C:\temp\moment1.2_dotnet\obj\Debug\net9.0\staticwebassets.build.json
 C:\temp\moment1.2_dotnet\obj\Debug\net9.0\staticwebassets.development.json
 C:\temp\moment1.2_dotnet\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1081,3 +1074,11 @@ C:\temp\moment1.2_dotnet\obj\Debug\net9.0\moment1.2_dotnet.dll
 C:\temp\moment1.2_dotnet\obj\Debug\net9.0\refint\moment1.2_dotnet.dll
 C:\temp\moment1.2_dotnet\obj\Debug\net9.0\moment1.2_dotnet.pdb
 C:\temp\moment1.2_dotnet\obj\Debug\net9.0\ref\moment1.2_dotnet.dll
+C:\temp\moment1.2_dotnet\obj\Debug\net9.0\moment1.2_dotnet.sourcelink.json
+C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.ifz8w6j0aq.pdb
+C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.7bmtrpc8k7.wasm
+C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.ifz8w6j0aq.pdb.gz
+C:\temp\moment1.2_dotnet\bin\Debug\net9.0\wwwroot\_framework\moment1.2_dotnet.7bmtrpc8k7.wasm.gz
+C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\ls5z9877je-7bmtrpc8k7.gz
+C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\3d7l7l01ws-ifz8w6j0aq.gz
+C:\temp\moment1.2_dotnet\obj\Debug\net9.0\compressed\m9yqj16bon-466blynsrd.gz

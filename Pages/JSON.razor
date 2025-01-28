@@ -1,0 +1,35 @@
+@page "/json"
+@inject HttpClient Http 
+
+<PageTitle>JSON</PageTitle>
+
+<h1>Här läses JSON in!</h1>
+
+@foreach(var course in courses) {
+    <article>
+        <p>@course.code - @course.coursename</p>
+        <p>@course.progression</p>
+        <p>@course.syllabus</p>
+    </article>
+}
+<!-- Vill hämta in data från följande api https://dahlgren.miun.se/ramschema.php -->
+
+@code {
+    //Array
+    private Courses[]? courses; 
+
+    //anrop 
+    protected override async Task OnInitializedAsync()
+    {
+        courses = await Http.GetFromJsonAsync<Courses[]>("https://dahlgren.miun.se/ramschema.php");
+    }
+
+    //klass för kurser
+    public class Courses {
+        public string? code { get; set; }
+        public string? coursename { get; set; }
+        public string? progression { get; set; }
+        public string? syllabus { get; set; }
+
+    }
+}
