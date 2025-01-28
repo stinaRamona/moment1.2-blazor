@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\moment1.2_dotnet.props" />
+</Project>
