@@ -3,10 +3,10 @@
 
 <PageTitle>JSON</PageTitle>
 
-<h1>Här läses JSON in!</h1>
+<h1>Kurser</h1>
 
 @foreach(var course in courses) {
-    <article>
+    <article class="courseArticle">
         <b>@course.coursename - @course.code</b>
         <p>Progression: @course.progression</p>
         <a href="@course.syllabus">Kursplan</a>

@@ -32,6 +32,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Y29tcG9uZW50c1xBYm91dENvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/temp/moment1.2_dotnet/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/temp/moment1.2_dotnet/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/temp/moment1.2_dotnet/Pages/Convert.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -47,11 +55,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/temp/moment1.2_dotnet/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/temp/moment1.2_dotnet/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-scqj9yf7qh
-
-[C:/temp/moment1.2_dotnet/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-6y89h9khoe
