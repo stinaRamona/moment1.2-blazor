@@ -36,20 +36,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/temp/moment1.2_dotnet/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/temp/moment1.2_dotnet/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/temp/moment1.2_dotnet/Pages/JSON.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSlNPTi5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/temp/moment1.2_dotnet/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/temp/moment1.2_dotnet/_Imports.razor]

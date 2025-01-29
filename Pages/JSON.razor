@@ -7,9 +7,9 @@
 
 @foreach(var course in courses) {
     <article>
-        <p>@course.code - @course.coursename</p>
-        <p>@course.progression</p>
-        <p>@course.syllabus</p>
+        <b>@course.coursename - @course.code</b>
+        <p>Progression: @course.progression</p>
+        <a href="@course.syllabus">Kursplan</a>
     </article>
 }
 <!-- Vill hämta in data från följande api https://dahlgren.miun.se/ramschema.php -->
