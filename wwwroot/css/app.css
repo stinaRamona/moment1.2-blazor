@@ -13,7 +13,7 @@ body {
     width: 650px; 
     max-width: 100%; 
     margin: 0 auto;
-  
+    margin-top: 200px; 
   } 
   
   article {
@@ -45,6 +45,8 @@ body {
     height: 100%;  
     position: fixed; 
     overflow: auto;
+    left: 0; 
+    top: 150px; 
   }
   
   .nav-link {
@@ -68,6 +70,9 @@ body {
     padding: 2em; 
     background-color: rgb(255, 230, 213);
     position: relative;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
   }
   
   .navbar-brand {
@@ -81,6 +86,7 @@ body {
     font-size: 1.25em;
     border: 1px solid #454545; 
     padding: 0.5em; 
+    margin-right: 50px; 
   }  
   
   /*knapp*/
